@@ -1,0 +1,31 @@
+/* change colors of level 2 headers */
+#red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+#orange {
+    color: orange;
+}
+
+#green {
+    color: green;
+}
+
+#yellow {
+    color: yellow;
+}
+
+/* change font weight of level 2 headers */
+.color-title {
+    font-weight: normal;
+}
+
+/* set height and width of images to 200px */
+img {
+    height: 200px;
+    width: 200px;
+}
